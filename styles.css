@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    min-height: 100vh;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background: ghostwhite;
+}
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #2c3e50;
+    color: #ecf0f1;
+    padding: 17px;
+    text-align: center;
+    font-family: "Ubuntu Sans", sans-serif;
+    border-style: dashed;
+    border-radius: 50px;
+}
+nav {
+    position: absolute;
+    top: 957px;
+    left: 0;
+    right: 0;
+    background: #34495e;
+    padding: 10px;
+    text-align: center;
+    font-family: ;
+}
+nav a {
+    color: #0073ff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+#info {
+    position: absolute;
+    top: 130px;
+    left: 20px;
+    right: 20px;
+    padding: 20px;
+}
+ #trash {
+    position: absolute;
+    top: 400px;
+    left: 1200px;
+    padding: 30px;
+    background-color: #2c3e50;
+    border-style: ridge;
+    border-width: 20px;
+}
+
